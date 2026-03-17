@@ -48,4 +48,4 @@ Type `exit` to quit.
 
 ---
 
-**Author:** Your Name
+**Author:** Israel de la Cruz
